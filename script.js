@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Pergunta para um menino no corredor.",
-                afirmacao: "Ele te ajuda a achar a sua sala e descobri que são da mesma turma e ele se apresenta, o seu nome é Josh."
+                afirmacao: "Ele te ajuda a achar a sua sala e descobri que são da mesma turma e ele se apresenta, o seu nome é Josh.",
             },
             {
                 texto: "Você tenta achar sozinha.",
-                afirmacao: "Você demora para achar sua sala e leva um esporro do professor."
+                afirmacao: "Você demora para achar sua sala e leva um esporro do professor.",
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Uma menina comendo sozinha.",
-                afirmacao: "Ela é legal e simpática, vocês viram amigas."
+                afirmacao: "Ela é legal e simpática, vocês viram amigas.",
             },
             {
                 texto: "Grupo de meninas.",
-                afirmacao: "Elas te estranham e te excluem. Você fica com fama de esquisita entre elas."
+                afirmacao: "Elas te estranham e te excluem. Você fica com fama de esquisita entre elas.",
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Você vai falar com ele.",
-                afirmacao: "Você tem a iniciativa de ir lá falar com ele e você sugere de fazerem o trabalho na casa dele, e ele concorda. Você não lembrava dele ser tão gentil e bonito."
+                afirmacao: "Você tem a iniciativa de ir lá falar com ele e você sugere de fazerem o trabalho na casa dele, e ele concorda. Você não lembrava dele ser tão gentil e bonito.",
             },
             {
                 texto: "Você espera ele vir falar com você primeiro.",
-                afirmacao: "Ele acha que você é bem tímida e vem falar com você. Marcaram de fazer o trabalho na casa dele e ele acha você muito quieta."
+                afirmacao: "Ele acha que você é bem tímida e vem falar com você. Marcaram de fazer o trabalho na casa dele e ele acha você muito quieta.",
             }
         ]
     },
@@ -49,24 +49,24 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Você tenta ignorar.",
-                afirmacao: "Ele continua te encarando e tenta puxar um assunto e vocês começam a conversar. Você se sente atraida por ele e se ele teria algum interesse em você."
+                afirmacao: "Ele continua te encarando e tenta puxar um assunto e vocês começam a conversar. Você se sente atraida por ele e se ele teria algum interesse em você.",
             },
             {
                 texto: "O encara de volta na mesma intensidade.",
-                afirmacao: "Vocês se encaram por uns segundos e sentem a química. Ele se aproxima e vocês se beijam. Você fica preocupada que ele só te beijou por impulso enqunato você se sente atraida por ele de verdade."
+                afirmacao: "Vocês se encaram por uns segundos e sentem a química. Ele se aproxima e vocês se beijam. Você fica preocupada que ele só te beijou por impulso enqunato você se sente atraida por ele de verdade.",
             }
         ]
     },
     {
-        enunciado: " 'Eu gostaria de te perguntar algo, mas tenho medo de você me achar estranho.' Josh diz olhando para você. 'Pode perguntar' Você responde. 'Desde que te vi no corredor percebi o quão bonita você é. E depois de conversar com você, reparei que você também é muito legal. Quer ir num encontro comigo?' Ele diz tímido. O que você faz? ",
+        enunciado: "Eu gostaria de te perguntar algo, mas tenho medo de você me achar estranho.' Josh diz olhando para você. 'Pode perguntar' Você responde. 'Desde que te vi no corredor percebi o quão bonita você é. E depois de conversar com você, reparei que você também é muito legal. Quer ir num encontro comigo?' Ele diz tímido. O que você faz? ",
         alternativas: [
             {
                 texto: "Você fica nervosa e enrola ele.",
-                afirmacao: "Ele fica confuso e você não o responde por um tempo. Ele acaba perdendo o interesse."
+                afirmacao: "Ele fica confuso e você não o responde por um tempo. Ele acaba perdendo o interesse.",
             },
             {
-                texto: "Você aceita."
-                afirmacao: "Josh fica contente e marcam o encontro. Tudo ocorre bem e vocês começam um relacionamento!"
+                texto: "Você aceita.",
+                afirmacao: "Josh fica contente e marcam o encontro. Tudo ocorre bem e vocês começam um relacionamento!",
             }
         ]
     },
