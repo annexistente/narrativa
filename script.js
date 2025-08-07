@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Pergunta para um menino no corredor.",
-                afirmacao: "Ele te ajuda a achar a sua sala e descobri que são da mesma turma e ele se apresenta, o seu nome é Josh.",
+                afirmacao: "O menino te ajuda a achar a sua sala e descobri que são da mesma turma e ele se apresenta, o seu nome é Josh.",
             },
             {
                 texto: "Você tenta achar sozinha.",
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Uma menina comendo sozinha.",
-                afirmacao: "Ela é legal e simpática, vocês viram amigas.",
+                afirmacao: "A menina que você conheceu é legal e simpática, vocês viram amigas.",
             },
             {
                 texto: "Grupo de meninas.",
-                afirmacao: "Elas te estranham e te excluem. Você fica com fama de esquisita entre elas.",
+                afirmacao: "O grupo de meninas te estranham e te excluem. Você fica com fama de esquisita entre elas.",
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Você vai falar com ele.",
-                afirmacao: "Você tem a iniciativa de ir lá falar com ele e você sugere de fazerem o trabalho na casa dele, e ele concorda. Você não lembrava dele ser tão gentil e bonito.",
+                afirmacao: "Sobre o trabalho que o professor passou, você tem a iniciativa de ir lá falar com Josh (sua dupla) sobre o trabalho dado e você sugere de fazerem o trabalho na casa dele, e ele concorda. Você não lembrava dele ser tão gentil e bonito.",
             },
             {
                 texto: "Você espera ele vir falar com você primeiro.",
-                afirmacao: "Ele acha que você é bem tímida e vem falar com você. Marcaram de fazer o trabalho na casa dele e ele acha você muito quieta.",
+                afirmacao: "Sobre o trabalho que o professor passou, você esperou Josh vir falar com você. Ele acha que você é bem tímida e vem falar com você. Marcaram de fazer o trabalho na casa dele e ele acha você muito quieta.",
             }
         ]
     },
@@ -49,11 +49,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Você tenta ignorar.",
-                afirmacao: "Ele continua te encarando e tenta puxar um assunto e vocês começam a conversar. Você se sente atraida por ele e se ele teria algum interesse em você.",
+                afirmacao: "Na casa de Josh, após fazer o trabalho, ele continua te encarando. Você decide tentar ignorar e ele continua te encarando e tenta puxar um assunto e vocês começam a conversar. Você se sente atraida por ele e se ele teria algum interesse em você.",
             },
             {
                 texto: "O encara de volta na mesma intensidade.",
-                afirmacao: "Vocês se encaram por uns segundos e sentem a química. Ele se aproxima e vocês se beijam. Você fica preocupada que ele só te beijou por impulso enqunato você se sente atraida por ele de verdade.",
+                afirmacao: "Na casa de Josh, após fazer o trabalho, ele continua te encarando. Você decide encarar de volta... Vocês se encaram por uns segundos e sentem a química. Ele se aproxima e vocês se beijam. Você fica preocupada que ele só te beijou por impulso enqunato você se sente atraida por ele de verdade.",
             }
         ]
     },
@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Você fica nervosa e enrola ele.",
-                afirmacao: "Ele fica confuso e você não o responde por um tempo. Ele acaba perdendo o interesse.",
+                afirmacao: "Josh te chama para sair e você o enrola. Ele fica confuso e você não o responde por um tempo. Ele acaba perdendo o interesse.",
             },
             {
                 texto: "Você aceita.",
-                afirmacao: "Josh fica contente e marcam o encontro. Tudo ocorre bem e vocês começam um relacionamento!",
+                afirmacao: "Ele te chama para sair e você aceita. Josh fica contente e marcam o encontro. Tudo ocorre bem e vocês começam um relacionamento!",
             }
         ]
     },
